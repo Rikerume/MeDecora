@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1062169648695",
+    "project_id": "medecora-e921a",
+    "storage_bucket": "medecora-e921a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062169648695:android:f534c4c792a53a7337e9b2",
+        "android_client_info": {
+          "package_name": "com.mycompany.medecora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062169648695-iu8pr1nv4fih0fcinuksrgqv54th6k12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.medecora",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1062169648695-gb8songtedlcqfhpr9bbfjtq0a6d2ikh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP2ycFvwvuJlAYbburD1bPvYZxeOoeXkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062169648695-gb8songtedlcqfhpr9bbfjtq0a6d2ikh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062169648695-0d61r01l403t7cfat48aksj94joir0l7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.medecora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
